@@ -13,13 +13,13 @@
 
 ### Topics
 
-1. [Oops](/topics/en/javascript.md)
-1. [SOLID Principles](/topics/en/react.md)
-1. [Design Patterns](/topics/en/redux.md)
-1. [Data Structures and Algorithms (DSA)](/topics/en/vuejs.md)
-1. [Low Level Design (LLD)](/topics/en/angular.md)
-1. [High Level Design (HLD)](/topics/en/nodejs.md)
-1. [Monolithic vs Microservices Architecture](/topics/en/angularjs.md)
+1. [Oops](/topics/oops.md)
+1. [SOLID Principles](/topics/solid-principles.md)
+1. [Design Patterns](/topics/design-patterns.md)
+1. [Data Structures and Algorithms (DSA)](/topics/data-structures-and-algorithms.md)
+1. [Low Level Design (LLD)](/topics/low-level-design.md)
+1. [High Level Design (HLD)](/topics/high-level-design.md)
+1. [Monolithic vs Microservices Architecture](/topics/monolithic-vs-microservice-architecture.md)
 
 ## Authors
 
