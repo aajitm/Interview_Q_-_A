@@ -23,5 +23,5 @@
 
 ## Authors
 
-- **Ajit More** - [LinkedIn](<a href="https://www.linkedin.com/in/ajitvmore/" >https://www.linkedin.com/in/ajitvmore/</a>)
+- **Ajit More** - <a href="https://www.linkedin.com/in/ajitvmore/" target="_blank" >LinkedIn</a>
 
