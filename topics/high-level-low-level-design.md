@@ -1,18 +1,16 @@
 ## High-Level Design (HLD) Vs. Low-Level Design (LLD)
 
-[What are the main categories of Design Patterns?](#what-are-the-main-categories-of-design-patterns)
+## Table of Contents
+- [High-Level Design (HLD)](#high-level-design)
+  1 [Definition](#defination)
+  1 [Key Components](#key-components)
+  1 [Example](#example)
 
-[What is a pattern?](#what-is-a-pattern)
+- [Low-Level Design (LLD)](#low-level-design)
+  1 [Definition](#defination)
+  1 [Key Components](#key-components)
+  1 [Example](#example)
 
-[What is Singleton pattern?](#what-is-singleton-pattern)
-
-[What is Design Patterns and why anyone should use them?](#what-is-design-patterns-and-why-anyone-should-use-them)
-
-[What is Factory pattern?](#what-is-factory-pattern)
-
-[What is Iterator pattern?](#what-is-iterator-pattern)
-
-[What is Inversion of Control?](#what-is-inversion-of-control)
 
 [Can we create a clone of a singleton object?](#can-we-create-a-clone-of-a-singleton-object)
 
