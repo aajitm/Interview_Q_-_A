@@ -23,5 +23,5 @@
 
 ## Authors
 
-- **Ajit More** - [GITHUB](https://github.com/uliaaan) / [TWITTER](https://twitter.com/ylmarkov)
+- **Ajit More** - [LinkedIn](<a href="https://www.linkedin.com/in/ajitvmore/" >https://www.linkedin.com/in/ajitvmore/</a>)
 
