@@ -34,5 +34,9 @@
 ### HLD
 ### MONOLITHIC VS MICROSERVICE ARCHITECTURE
 
+## Database technologies
+
+### MS-SQL
+
 
 
