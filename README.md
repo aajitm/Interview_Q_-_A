@@ -9,34 +9,19 @@
 	</p>	
 </div>	
 
-### Table of Contents
+## Table of Contents
 
-- [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
-  - [OOPS](#oops)
-  - [SOLID PRINCIPAL](#solid-principal)
-  - [DESIGN PATTERN](#design-pattern)
-  - [DSA](#dsa)
-  - [LLD](#lld)
-  - [HLD](#hld)
-  - [MONOLITHIC VS MICROSERVICE ARCHITECTURE](#monolithic-vs-microservice-architecture)
-    
-- [Database technologies](#database-technologies)
-  - [MS-SQL](#ms-sql)
+### Topics
 
+1. [Oops](/topics/en/javascript.md)
+1. [SOLID Principles](/topics/en/react.md)
+1. [Design Patterns](/topics/en/redux.md)
+1. [Data Structures and Algorithms (DSA)](/topics/en/vuejs.md)
+1. [LLD](/topics/en/angular.md)
+1. [HLD](/topics/en/nodejs.md)
+1. [Monolithic vs Microservices Architecture](/topics/en/angularjs.md)
 
-## Programming Languages/Frameworks/Platforms
+## Authors
 
-### OOPS
-### SOLID PRINCIPAL
-### DESIGN PATTERN
-### DSA
-### LLD
-### HLD
-### MONOLITHIC VS MICROSERVICE ARCHITECTURE
-
-## Database technologies
-
-### MS-SQL
-
-
+- **Ajit More** - [GITHUB](https://github.com/uliaaan) / [TWITTER](https://twitter.com/ylmarkov)
 
