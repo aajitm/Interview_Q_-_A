@@ -1,4 +1,4 @@
-## Design Patterns
+## Monolithic vs Microservices Architecture
 
 [What are the main categories of Design Patterns?](#what-are-the-main-categories-of-design-patterns)
 
