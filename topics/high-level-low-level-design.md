@@ -1,16 +1,5 @@
 ## High-Level Design (HLD) Vs. Low-Level Design (LLD)
 
-## Table of Contents
-- [High-Level Design (HLD)](#high-level-design)
-  1. [Definition](#defination)
-  1. [Key Components](#key-components)
-  1. [Example](#example)
-
-- [Low-Level Design (LLD)](#low-level-design)
-  1. [Definition](#defination)
-  1. [Key Components](#key-components)
-  1. [Example](#example)
-
 ## High-Level Design (HLD)
 
 ### 1.Definition
