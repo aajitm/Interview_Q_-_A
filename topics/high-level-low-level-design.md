@@ -2,14 +2,14 @@
 
 ## Table of Contents
 - [High-Level Design (HLD)](#high-level-design)
-  1 [Definition](#defination)
-  1 [Key Components](#key-components)
-  1 [Example](#example)
+  1. [Definition](#defination)
+  1. [Key Components](#key-components)
+  1. [Example](#example)
 
 - [Low-Level Design (LLD)](#low-level-design)
-  1 [Definition](#defination)
-  1 [Key Components](#key-components)
-  1 [Example](#example)
+  1. [Definition](#defination)
+  1. [Key Components](#key-components)
+  1. [Example](#example)
 
 
 [Can we create a clone of a singleton object?](#can-we-create-a-clone-of-a-singleton-object)
