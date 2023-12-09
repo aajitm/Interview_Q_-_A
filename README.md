@@ -17,8 +17,8 @@
 1. [SOLID Principles](/topics/en/react.md)
 1. [Design Patterns](/topics/en/redux.md)
 1. [Data Structures and Algorithms (DSA)](/topics/en/vuejs.md)
-1. [LLD](/topics/en/angular.md)
-1. [HLD](/topics/en/nodejs.md)
+1. [Low Level Design (LLD)](/topics/en/angular.md)
+1. [High Level Design (HLD)](/topics/en/nodejs.md)
 1. [Monolithic vs Microservices Architecture](/topics/en/angularjs.md)
 
 ## Authors
