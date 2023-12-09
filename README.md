@@ -12,10 +12,9 @@ Welcome to the "Interview_Q_&_A" repository, your go-to resource for comprehensi
 **Regular Updates:** Stay tuned for regular updates as we continuously expand and enhance the repository with fresh content. We strive to keep up with the latest industry trends and interview practices.
 
 **How to Contribute:**
-Share your own interview experiences and the questions you encountered.
-Provide insightful answers and explanations to existing questions.
-Help maintain the quality and relevance of the content.
-
+Share your own interview experiences and the questions you encountered.</n>
+Provide insightful answers and explanations to existing questions.</n>
+Help maintain the quality and relevance of the content.</n>
 
 Ace your interviews with confidence, backed by the knowledge and insights shared within the "Interview_Q_&_A" repository. Good luck on your journey!
 
